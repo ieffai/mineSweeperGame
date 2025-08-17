@@ -28,8 +28,9 @@ A home assignment for
    npm install
    ```
 
-4.```bash
-npm run dev
+4. ```bash
+   npm run dev
+   ```
 
 ```
 
