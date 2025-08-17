@@ -16,34 +16,28 @@ A home assignment for
 
 ### Installation
 
-1. **Clone the repository**
-
-   ```bash
+1. ```bash
    git clone https://github.com/ieffai/mineSweeperGame.git
    ```
 
-2. **Navigate to the project directory**
-
-   ```bash
+2. ```bash
    cd mineSweeperGame
    ```
 
-3. **Install dependencies**
-
-   ```bash
+3. ```bash
    npm install
    ```
 
-4. **Start the development server**
+4.```bash
+npm run dev
 
-   ```bash
-   npm run dev
-   ```
+```
 
 5. **Open your browser**
 
-   The application will be available at `http://localhost:5173` (or the port shown in your terminal).
+The application will be available at `http://localhost:5173` (or the port shown in your terminal).
 
 ---
 
 Made with ❤️ and TypeScript
+```
