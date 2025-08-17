@@ -1,0 +1,8 @@
+{
+  "singleQuote": true,
+  "importOrder": ["^@shared$", "^@app$", "^@features$", "^@pages$", "^@entities$", "^@widgets$", "^[./]"],
+  "importOrderSortSpecifiers": true,
+  "printWidth": 120,
+  "semi": true,
+  "trailingComma": "all"
+}

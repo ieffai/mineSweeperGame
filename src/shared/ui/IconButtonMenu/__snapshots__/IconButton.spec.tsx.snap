@@ -1,0 +1,34 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`IconButtonMenu > should render successfully 1`] = `
+<DocumentFragment>
+  <button
+    aria-controls="«r0»"
+    aria-haspopup="true"
+    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-53g0n7-MuiButtonBase-root-MuiIconButton-root"
+    tabindex="0"
+    type="button"
+  >
+    <span>
+      🔧
+    </span>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`IconButtonMenu > should render when open 1`] = `
+<DocumentFragment>
+  <button
+    aria-controls="«r2»"
+    aria-expanded="true"
+    aria-haspopup="true"
+    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-53g0n7-MuiButtonBase-root-MuiIconButton-root"
+    tabindex="0"
+    type="button"
+  >
+    <span>
+      🔧
+    </span>
+  </button>
+</DocumentFragment>
+`;

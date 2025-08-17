@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Stack > should render successfully 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiStack-root css-nen11g-MuiStack-root"
+  />
+</DocumentFragment>
+`;
