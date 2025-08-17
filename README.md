@@ -32,8 +32,6 @@ A home assignment for
    npm run dev
    ```
 
-```
-
 5. **Open your browser**
 
 The application will be available at `http://localhost:5173` (or the port shown in your terminal).
@@ -41,4 +39,3 @@ The application will be available at `http://localhost:5173` (or the port shown 
 ---
 
 Made with ❤️ and TypeScript
-```
