@@ -12,6 +12,10 @@ A home assignment for
 - **Framer Motion**
 - **Feature-Sliced Design (FSD)** - Architecture methodology for scalable frontend applications
 
+## 🌐 Live Demo
+
+🎮 **[Play the game here!](https://ieffai.github.io/mineSweeperGame/)**
+
 ## 🛠️ Getting Started
 
 ### Installation
